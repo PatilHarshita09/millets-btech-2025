@@ -7,3 +7,5 @@ __pycache__/
 
 .streamlit/
 trained_model.h5
+gptbot.py
+gptbot copy.py
