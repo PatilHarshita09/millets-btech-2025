@@ -2,7 +2,6 @@ Amaranth_millet
 Buckwheat_millet
 Finger_millet
 Foxtail_millet
-KonkanRedRice
 Little_millet
 Pearl_millet
 Sorghum_millet
